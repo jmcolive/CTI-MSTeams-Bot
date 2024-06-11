@@ -207,6 +207,6 @@ eldorado = 2024-06-06 14:09:17.762691
 trinity = 2024-06-11 08:07:38.542311
 
 [Misc]
-redflagdomains = 2024-06-10
+redflagdomains = 2024-06-11
 reminder = 2024-05-31
 
