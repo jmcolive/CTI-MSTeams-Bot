@@ -14,7 +14,7 @@ proof point = 2024-09-10T08:39:53
 us-cert cisa = 2024-09-04T19:01:58
 fr-cert alertes = 2024-09-10T12:22:00
 fr-cert avis = 2024-09-12T12:42:25
-hacker news = 2024-09-12T16:12:00
+hacker news = 2024-09-13T05:39:00
 schneier on security = 2024-09-12T15:42:49
 ncsc = 7630-11-11T08:01:15
 center of internet security = 2024-09-11T19:52:43
@@ -287,6 +287,6 @@ phoenixcryptolocker = 2021-03-21 00:00:00.000000
 astroteam = 2021-04-05 00:00:00.000000
 
 [Misc]
-redflagdomains = 2024-09-12
+redflagdomains = 2024-09-13
 reminder = 2024-09-04
 
