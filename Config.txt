@@ -39,7 +39,7 @@ version = 2023-05-15T09:31:25
 redcanary = 2024-10-30T18:34:43
 malpedia = 2022-09-20T15:01:28
 databreaches = 2022-10-10T11:40:57
-unit42 = 2024-10-30T10:00:29
+unit42 = 2024-11-01T22:00:12
 google tag = 2024-09-12T23:30:00
 msrc security update = 2024-10-31T16:46:51
 
@@ -294,6 +294,6 @@ hellcat = 2024-10-25 08:53:04.137330
 playboy = 2024-10-30 19:16:00.461633
 
 [Misc]
-redflagdomains = 2024-10-31
+redflagdomains = 2024-11-01
 reminder = 2024-10-06
 
