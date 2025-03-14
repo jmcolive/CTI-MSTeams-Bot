@@ -15,9 +15,9 @@ us-cert cisa = 2025-03-11T14:52:42
 fr-cert alertes = 2025-01-14T15:39:48
 fr-cert avis = 2025-03-14T14:02:43
 hacker news = 2025-03-14T15:07:00
-schneier on security = 2025-03-14T16:03:29
+schneier on security = 2025-03-14T21:03:56
 ncsc = 7630-11-11T08:01:15
-center of internet security = 2025-03-12T05:28:30
+center of internet security = 2025-03-14T18:53:03
 binary defense = 2025-03-04T15:22:39
 securelist = 2025-03-13T10:00:33
 checkpoint research = 2025-03-10T14:45:38
@@ -25,7 +25,7 @@ virusbulletin = 2024-06-24T08:57:00
 modexp = 2024-10-18T17:15:04
 james forshaw = 2024-06-04T04:20:00
 adam chester = 2025-01-12T23:01:46
-microsoft security = 2025-03-13T07:00:00
+microsoft security = 2025-03-14T07:00:00
 recorded future = 2025-02-25T00:00:00
 sentinelone = 2025-03-14T13:00:30
 leak-lookup = 2025-03-12T17:00:02
@@ -314,6 +314,6 @@ nightspire = 2025-03-12 23:50:48.802120
 secp0 = 2025-03-14 07:35:02.420437
 
 [Misc]
-redflagdomains = 2025-03-13
+redflagdomains = 2025-03-14
 reminder = 2025-02-11
 
