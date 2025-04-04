@@ -15,7 +15,7 @@ us-cert cisa = 2025-04-01T19:00:21
 fr-cert alertes = 2025-04-03T00:00:00
 fr-cert avis = 2025-04-04T00:00:00
 hacker news = 2025-04-04T12:28:00
-schneier on security = 2025-04-04T11:02:25
+schneier on security = 2025-04-04T21:03:48
 ncsc = 7630-11-11T08:01:15
 center of internet security = 2025-04-03T21:22:43
 binary defense = 2025-03-25T12:49:58
@@ -117,7 +117,7 @@ mallox = 2024-07-15 17:40:33.142016
 royal = 2023-07-19 14:46:59.790838
 projectrelic = 2022-12-18 16:54:36.306758
 medusa = 2025-03-29 16:36:02.042912
-play = 2025-04-02 21:18:25.063225
+play = 2025-04-04 20:42:59.632545
 dataleak = 2022-12-02 09:45:25.796276
 monti = 2025-03-19 01:31:11.171800
 nokoyawa = 2023-08-04 11:02:13.553376
@@ -319,6 +319,6 @@ ralord = 2025-03-31 02:11:58.781693
 chaos = 2025-03-31 18:31:23.783552
 
 [Misc]
-redflagdomains = 2025-04-03
+redflagdomains = 2025-04-04
 reminder = 2025-03-15
 
