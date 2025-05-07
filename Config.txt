@@ -6,7 +6,7 @@ dark reading = 2027-03-26T22:00:00
 we live security = 2023-07-19T09:30:16
 davinci forensics = 2025-05-01T13:40:11
 cisco = 2025-05-05T12:00:01
-information security magazine = 2025-05-06T15:45:00
+information security magazine = 2025-05-07T09:30:00
 google = 2022-10-12T12:00:00
 trend micro = 2025-05-07T00:00:00
 bleeping computer = 2025-05-06T18:16:00
@@ -326,6 +326,7 @@ nova = 2025-04-29 02:49:50.821643
 j = 2025-05-02 07:31:21.203521
 imncrew = 2025-05-05 20:10:15.594157
 leakeddata = 2025-05-06 18:25:18.544492
+silentransomgroup = 2025-05-06 18:25:18.544492
 
 [Misc]
 redflagdomains = 2025-05-06
