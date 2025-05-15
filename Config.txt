@@ -14,7 +14,7 @@ proof point = 2025-05-12T06:56:29
 us-cert cisa = 2025-04-01T19:00:21
 fr-cert alertes = 2025-05-14T00:00:00
 fr-cert avis = 2025-05-15T00:00:00
-hacker news = 2025-05-15T14:28:00
+hacker news = 2025-05-15T16:45:00
 schneier on security = 2025-05-15T11:00:33
 ncsc = 7630-11-11T08:01:15
 center of internet security = 2025-05-15T14:19:58
@@ -41,7 +41,7 @@ malpedia = 2022-09-20T15:01:28
 databreaches = 2022-10-10T11:40:57
 unit42 = 2025-05-14T10:00:53
 google tag = 2024-12-17T22:00:00
-msrc security update = 2025-05-13T07:00:00
+msrc security update = 2025-05-15T07:00:00
 
 [Ransomware]
 suncrypt = 2022-06-18 02:21:01.442528
