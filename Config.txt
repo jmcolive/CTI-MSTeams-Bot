@@ -14,7 +14,7 @@ proof point = 2025-06-05T16:33:55
 us-cert cisa = 2025-06-12T14:29:54
 fr-cert alertes = 2025-06-05T00:00:00
 fr-cert avis = 2025-06-16T00:00:00
-hacker news = 2025-06-16T14:21:00
+hacker news = 2025-06-16T17:49:00
 schneier on security = 2025-06-15T01:07:56
 ncsc = 7630-11-11T08:01:15
 center of internet security = 2025-06-10T19:04:58
@@ -337,6 +337,6 @@ teamxxx = 2025-06-10 23:25:27.048278
 warlock = 2025-06-11 11:55:33.394719
 
 [Misc]
-redflagdomains = 2025-06-15
+redflagdomains = 2025-06-16
 reminder = 2025-05-18
 
