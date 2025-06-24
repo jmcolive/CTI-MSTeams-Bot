@@ -9,7 +9,7 @@ cisco = 2025-06-20T12:00:49
 information security magazine = 2025-06-24T16:15:00
 google = 2022-10-12T12:00:00
 trend micro = 2025-06-24T00:00:00
-bleeping computer = 2025-06-24T18:07:43
+bleeping computer = 2025-06-24T20:36:19
 proof point = 2025-06-23T09:14:09
 us-cert cisa = 2025-06-12T14:29:54
 fr-cert alertes = 2025-06-05T00:00:00
@@ -34,7 +34,7 @@ eu-enisa publications = 2024-11-19T16:08:16
 att = 2025-06-23T16:29:00
 microsoft sentinel = 2024-10-24T10:47:01
 ncc = 2024-02-22T16:35:43
-sans = 2025-06-24T02:00:02
+sans = 2025-06-24T18:36:36
 version = 2023-05-15T09:31:25
 redcanary = 2025-06-24T15:30:05
 malpedia = 2022-09-20T15:01:28
@@ -337,6 +337,6 @@ teamxxx = 2025-06-22 20:15:51.383363
 warlock = 2025-06-11 11:55:33.394719
 
 [Misc]
-redflagdomains = 2025-06-23
+redflagdomains = 2025-06-24
 reminder = 2025-06-19
 
