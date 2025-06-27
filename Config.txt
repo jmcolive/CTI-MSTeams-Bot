@@ -1,5 +1,5 @@
 [Rss]
-graham cluley = 2025-06-25T23:00:41
+graham cluley = 2025-06-27T10:56:54
 threatpost = 2022-08-31T12:57:48
 krebs on security = 2025-06-12T22:14:00
 dark reading = 2027-03-26T22:00:00
@@ -13,7 +13,7 @@ bleeping computer = 2025-06-27T09:12:43
 proof point = 2025-06-23T09:14:09
 us-cert cisa = 2025-06-12T14:29:54
 fr-cert alertes = 2025-06-05T00:00:00
-fr-cert avis = 2025-06-26T00:00:00
+fr-cert avis = 2025-06-27T00:00:00
 hacker news = 2025-06-27T11:00:00
 schneier on security = 2025-06-27T11:02:54
 ncsc = 7630-11-11T08:01:15
